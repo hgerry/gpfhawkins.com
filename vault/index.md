@@ -1,8 +1,13 @@
 
-# A Sort of Buddhism
+# Gerry Hawkins
+
+Buddhism, synths, and greenhouses.
+
+## A Sort of Buddhism
 
 Here are some thoughts, notes, and essays - written to develop my thoughts and express my ideas. I don't follow a particular school, but my theology and metaphysical reckoning is fairly close to general Buddhist themes. I general prefer to intuit insights, and then try to understand them - rather than the other way around.
-# Things aren't really colourful, reality is a construct
+
+## Things aren't really colourful, reality is a construct
 
 The normal experience of looking at a chair is to feel as though there is nothing between you, the observer, and the object. It feels almost as though light travels directly from the chair into your mind, but that the truth is far from that.
 
