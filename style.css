@@ -15,6 +15,7 @@ h1, h2, h3 {
   font-family: inherit;
   font-weight: 600;
   letter-spacing: -0.01em;
+  color: #D8A1A6;
 }
 
 p { margin: 1.25rem 0; }
@@ -28,4 +29,8 @@ pre {
   overflow-x: auto;
 }
 
-code { font-family: ui-monospace, Menlo, Consolas, monospace; }
+img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+}

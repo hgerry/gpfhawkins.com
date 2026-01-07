@@ -1,19 +1,19 @@
 
-# Gerry Hawkins
+# A Sort of Buddhism
 
-Buddhism, synths, and greenhouses.
+[About Me](About%20Me.html)
 
-## A Sort of Buddhism
+Here are some vingettes, written to develop and express my thoughts. I don't follow a particular school, but my theology and metaphysical reckoning are fairly Buddhist. I generally prefer to intuit insights, and then try to understand them - rather than the other way around. I don't claim this method to be more valid than another, it's just the path I have taken.
 
-Here are some thoughts, notes, and essays - written to develop my thoughts and express my ideas. I don't follow a particular school, but my theology and metaphysical reckoning is fairly close to general Buddhist themes. I generally prefer to intuit insights, and then try to understand them - rather than the other way around.
+## It's all in the mind
 
-## Things aren't really colourful, reality is a construct
+The normal experience of looking at an object is to feel as though there is nothing between you, the observer, and the object. It feels almost as though light travels directly from the object into your conscious, and therefore that you are _directly_ observing the object itself - but this is not the case.
 
-The normal experience of looking at a chair is to feel as though there is nothing between you, the observer, and the object. It feels almost as though light travels directly from the chair into your mind, but that the truth is far from that.
+For a start, there are the obvious intermediaries. The lens, the retina, and so on. The real magic of consciousness is something that exists beyond all that. We don't simply become aware of the location and properties of the object, as we might assume a computer system would, we experience looking at the chair in a way that is hard to communicate with words - we _see_ the chair. 
 
-For a start, there are the obvious intermediaries. The lens of the eye focusing light, the retina translating that light into electrical signals, the transport of those signals to the mind, and then the brain interpreting those signals. However, the real magic of consciousness is something that exists beyond all that. We don't simple become aware of the location and properties of the chair, as we might assume a computer system would, we experience looking at the chair in a way that is hard to communicate with words, we _see_ the chair. 
+![](vault/field_bw.jpeg)
 
-Our awareness - by which I mean our consciousness at it's most impersonal and fundamental level - is like a passive observer of things which the occur in the field of awareness.
+Our awareness - by which I mean our consciousness at it's most impersonal and fundamental level - is like a passive observer, with things appearing in that awareness.
 
 Throughout life, this awareness is observing a constructed inner a world, a colourful, spatial, audible, tactile model of the world. It is our minds which  render a blade of glass to look green, or the sky to look blue. The brain infers colour, it doesn't exist in the same sense in the outside world.
 
