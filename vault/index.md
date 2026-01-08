@@ -1,20 +1,15 @@
 
 # A Sort of Buddhism
 
-[About Me](About%20Me.html)
+[About me](about_me.md)    [Ideas for future notes](ideas_for_future_notes.md)
 
-Here are some vingettes, written to develop and express my thoughts. I don't follow a particular school, but my theology and metaphysical reckoning are fairly Buddhist. I generally prefer to intuit insights, and then try to understand them - rather than the other way around. I don't claim this method to be more valid than another, it's just the path I have taken.
+This website is a collection of notes on consciousness, experience, and reality. I don't follow a particular school, but I am some sort of Buddhist. I generally prefer to intuit insights, and then try to understand them - rather than the other way around - but I think there is value in both approaches.
 
-## It's all in the mind
+![](vault/fern.jpeg)
 
-The normal experience of looking at an object is to feel as though there is nothing between you, the observer, and the object. It feels almost as though light travels directly from the object into your conscious, and therefore that you are _directly_ observing the object itself - but this is not the case.
+## Notes
 
-For a start, there are the obvious intermediaries. The lens, the retina, and so on. The real magic of consciousness is something that exists beyond all that. We don't simply become aware of the location and properties of the object, as we might assume a computer system would, we experience looking at the chair in a way that is hard to communicate with words - we _see_ the chair. 
-
-![](vault/field_bw.jpeg)
-
-Our awareness - by which I mean our consciousness at it's most impersonal and fundamental level - is like a passive observer, with things appearing in that awareness.
-
-Throughout life, this awareness is observing a constructed inner a world, a colourful, spatial, audible, tactile model of the world. It is our minds which  render a blade of glass to look green, or the sky to look blue. The brain infers colour, it doesn't exist in the same sense in the outside world.
-
-Colour is just a useful example here. The really interesting insight is that this concept extends to all of human experience. We do not experience the world directly, we are an awareness (within a mind, within a body) which observes that which the mind generates. Your reality is the understanding and experience you have of the world, but those are _internal_ phenomena. The illusion of consciousness to to make make that "reality" feel external. 
+- [It's all in the mind](its_all_in_the_mind.md)
+  _Using sight and colour as examples to understand our constructed internal reality, and how our experience is indirect_
+- ["Awareness is impersonal, and universal"](universal_awareness.md.md)
+  _Realising that consciousness is, at its core, an impersonal and common awareness, changes the identification of self _
