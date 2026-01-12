@@ -14,8 +14,8 @@ I've written these pieces primarily as an exercise to developing and crystallise
 - [It's all in the mind](its_all_in_the_mind.md)
   _Using sight and colour as examples to understand our constructed internal reality, and how our experience is indirect_
 
-- ["Awareness is impersonal, and universal"](universal_awareness.md.md)
+- [Awareness is impersonal](universal_awareness.md.md)
   _Realising that consciousness is, at its core, an impersonal and common awareness, changes the identification of self _
 
-- ["Personal metaphysical reckoning"](metaphysics.md.md)
+- [Personal metaphysical reckoning](metaphysics.md.md)
   _My current understanding and best-guess of how everything works_
