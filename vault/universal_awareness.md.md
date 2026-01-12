@@ -1,7 +1,16 @@
 # Awareness is impersonal, and universal
 
-This realisation was the most profound insight of my life. I was in the shower, and broadening my awareness when a question spontaneously popped into my head: "What if everyone feels not just similarly to you, but _exactly_ the same as you. What if you've been walking round you whole life considering your awareness to somehow be uniquely Gerry, when in fact the core experiences of everyday life will _feel exactly the same to everyone_."
+For me, the question arose spontaneously:
 
-This blew my mind, not just in a cognitive way, but in a felt way. I didn't simply know the answer, I knew it. It was a beautiful light bulb moment, 
+"What if everyone else feels _exactly_ the same as you?"
 
-To arrive at this conc
+Followed by: 
+
+"What if you've been assuming that your awareness is somehow uniquely you, but actually experience feels _exactly_ the same for everyone?"
+
+It was a light-bulb moment, the answers immediately apparent. My understanding of the world shifted profoundly. My meditations up till then had been forward-looking, and suddenly it was like a mirror appeared before me - with an almost deja vu sense of "my" awareness recognising itself for this first time in this body.
+
+The days that followed were blissful. A deep, slow resonant sensation when I tuned into the realisation, adopted the new perspective. A mind constructs a model of the world. New information and experience is mapped onto it. If the mapping if poor, an unpleasant tension arises. If the mapping is good, then it feels good. A multitude of ideas, memories, concepts - past and present - suddenly mapped perfectly. A deep sense of peace persisted for a few days, before a fairly grim crash and eventual return to a new normality.
+
+It found this particular realisation somehow impossible to communicate. Once it clicked, it felt almost obvious. I attempted to explain it to someone else, but one can't force the moment of understanding. There's the sense of this particular realisation being somehow like a personal riddle.
+
