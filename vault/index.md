@@ -15,10 +15,10 @@ I've written these pieces primarily as an exercise to developing and crystallise
   _Using sight and colour as examples to understand our constructed internal reality, and how our experience is indirect_
 
 - [Awareness is impersonal](universal_awareness.md.md)
-  _Realising that consciousness is, at its core, an impersonal and common awareness, changes the identification of self _
+  _Realising that consciousness is, at its core, an impersonal and common awareness, changes the identification of self_
 
 - [Personal metaphysical reckoning](metaphysics.md.md)
   _My current understanding and best-guess of how everything works_
 
-  - [The Walled Garden of Experience](the_garden_of_experience.md)
+- [The Walled Garden of Experience](the_garden_of_experience.md.md)
   _Awareness is common, experience is unique_
