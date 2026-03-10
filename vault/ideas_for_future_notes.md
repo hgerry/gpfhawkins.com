@@ -12,4 +12,4 @@
 - The sliding scale of awareness, and consciousness as type of awareness (self-aware)
 - Materialism and technology as a distraction from reality
 - The mind constructs a model of the world and maps on to it - what happens when the alignment is good, how this desire for good mapping can result in the same evidence mapping onto two opposing models
-- There is only present - and the implications of this on how we live, or might want to live (the value of now). Reference 4000 Weeks.
+- There is only present - and the implications of this on how we live, or might want to live (the value of now)

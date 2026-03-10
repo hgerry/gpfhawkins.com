@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>how_this_website_is_built</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h1 id="how-this-website-is-built">How this website is built</h1>
+<ul>
+<li>Files are written in Obsidian, and edited locally. The website is an
+obsidian vault.</li>
+<li>Files are copied to a github repo</li>
+<li>Hosting is with Cloudflare</li>
+<li>Local build flow from the cmd line:</li>
+</ul>
+<pre><code>./build.sh
+git add
+git commit
+git push </code></pre>
+<ul>
+<li>Changes to the repo are automatically picked up by cloudflare</li>
+</ul>
+<hr />
+<p>Build.sh</p>
+<pre><code>#!/usr/bin/env bash
+set -euo pipefail
+# Build all markdown in vault/ to .html in the current directory,
+# then rewrite Obsidian-friendly links (href=&quot;*.md&quot;) to (href=&quot;*.html&quot;)
+# while keeping the vault pristine.
+for f in vault/*.md; do
+  [ -f &quot;$f&quot; ] || exit 0
+  out=&quot;$(basename &quot;${f%.md}&quot;).html&quot;
+  pandoc &quot;$f&quot; -s --css style.css -o &quot;$out&quot;
+  tmp=&quot;${out}.tmp&quot;
+  # Rewrite only href targets ending in .md (including anchors like .md#section)
+  sed -E &#39;s/(href=&quot;[^&quot;]*)\.md/\1.html/g&#39; &quot;$out&quot; &gt; &quot;$tmp&quot;
+  mv &quot;$tmp&quot; &quot;$out&quot;
+done</code></pre>
+<hr />
+<p>style.css</p>
+<pre><code>body {
+  margin: 4rem auto;
+  max-width: 65ch;
+  padding: 0 1.25rem;
+  background: #161616;
+  color: #E6E4E1;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: #D8A1A6;
+}
+
+p { margin: 1.25rem 0; }
+a { color: #D8A1A6; text-decoration: none; }
+a:hover { color: #B8898D; }
+/* Navigation links only */
+p &gt; a {
+  margin-right: 1.25rem;
+}
+
+pre {
+  background: #1E1E1E;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+}</code></pre>
+</body>
+</html>

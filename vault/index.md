@@ -1,7 +1,7 @@
 
 # A Sort of Buddhism
 
-[About me](about_me.md)    [Ideas for future notes](ideas_for_future_notes.md)
+[About me](about_me.md)    [Ideas for future notes](ideas_for_future_notes.md)  [Site build notes](how_this_website_is_built.md)
 
 This website is a collection of notes on consciousness, experience, and reality. I don't follow a particular school, but I am some sort of Buddhist. I generally prefer to intuit insights, and then try to understand them - rather than the other way around - but I think there is value in both approaches. 
 
@@ -19,3 +19,6 @@ I've written these pieces primarily as an exercise to developing and crystallise
 
 - [Personal metaphysical reckoning](metaphysics.md.md)
   _My current understanding and best-guess of how everything works_
+  
+  - [The Walled Garden of Experience](the_garden_of_experience.md)
+  _Awareness is common, experience is unique_
