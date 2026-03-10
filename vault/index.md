@@ -20,5 +20,5 @@ I've written these pieces primarily as an exercise to developing and crystallise
 - [Personal metaphysical reckoning](metaphysics.md.md)
   _My current understanding and best-guess of how everything works_
 
-- [The Walled Garden of Experience](the_garden_of_experience.md.md)
+- [The Walled Garden of Experience](the_garden_of_experience.md)
   _Awareness is common, experience is unique_
